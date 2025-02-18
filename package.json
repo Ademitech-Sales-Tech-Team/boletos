@@ -35,9 +35,8 @@
     "sicoob"
   ],
   "author": {
-    "name": "Luis Sobrinho",
-    "email": "ads.luis.sobrinho@gmail.com",
-    "homepage": "https://luisaltino.com.br/"
+    "name": "Thiago Fernandes",
+    "email": "thiago.silva@ademicon.com.br"
   },
   "license": "ISC",
   "engines": {
@@ -56,6 +55,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luissobrinho/boletos.ts"
+    "url": "https://github.com/Ademitech-Sales-Tech-Team/boletos.git"
   }
 }
