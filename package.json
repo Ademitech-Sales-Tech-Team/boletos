@@ -1,6 +1,6 @@
 {
-  "name": "boletos.ts",
-  "version": "1.0.6",
+  "name": "boletos-ademitech",
+  "version": "1.0.1",
   "description": "Gerar boletos para vários bancos",
   "main": "lib/index.js",
   "directories": {
